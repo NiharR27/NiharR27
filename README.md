@@ -16,6 +16,8 @@ When I'm not coding I like to cook some delicious food :)
 </div>
 <br>
 
+## 🚀💻 Technologies & Tools
+
 
 ### Quick stats about me (Not 100% accurate due to using multi-platform for source control)
 | Github Stats | Top Languages |
