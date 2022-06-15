@@ -15,15 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!-- <div align="center">
+<div align="center">
 
 <a href="https://github.com/jstrieb/github-stats#gh-dark-mode-only">
-<img src="https://github-readme-stats.vercel.app/api?username=NiharR27" />
-<img src="https://github-readme-stats.vercel.app/api?username=NiharR27" />
+<img src="https://raw.githubusercontent.com/NiharR27/github-stats/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://raw.githubusercontent.com/NiharR27/github-stats/master/generated/overview.svg#gh-light-mode-only" />
 </a>
 <a href="https://github.com/jstrieb/github-stats#gh-light-mode-only">
 <img src="https://raw.githubusercontent.com/NiharR27/github-stats/master/generated/overview.svg#gh-light-mode-only" />
 <img src="https://raw.githubusercontent.com/NiharR27/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 
-</div> -->
+</div>
