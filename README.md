@@ -1,5 +1,12 @@
 <h1 align="center">🤠 Howdy! I'm Nihar Rupareliya</h1>
 
+<p align="center">
+I'm a front-end developer and designer building digital products using Lean Design principles.  I am currently working with Conpago.
+</p>
+<p align="center"> 
+When I'm not coding find me taking photos or trying to jump out of the nearest plane.
+</p>
+
 
 <!--
 **NiharR27/NiharR27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
