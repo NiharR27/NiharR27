@@ -1,4 +1,4 @@
-<h1 align="center">🤠 Howdy! I'm Nihar Rupareliya</h1>
+<h1 align="center">🤠 Howdy! fellow <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>!</h1>
 
 <p align="center">
 I'm a front-end developer and designer building digital products using Lean Design principles.  I am currently working with Conpago.
