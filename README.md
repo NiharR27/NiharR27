@@ -4,7 +4,7 @@
 I'm a front-end developer and designer building digital products using Lean Design principles.  I am currently working with Conpago.
 </p>
 <p align="center"> 
-When I'm not coding find me taking photos or trying to jump out of the nearest plane.
+When I'm not coding I like to cook some delicious food :)
 </p>
 
 
