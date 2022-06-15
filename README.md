@@ -34,7 +34,7 @@ When I'm not coding I like to cook some delicious food :)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
   ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript)
-    ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
+    
 
   ![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
   ![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
@@ -44,6 +44,7 @@ When I'm not coding I like to cook some delicious food :)
   ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
   ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
   ![Cisco](https://img.shields.io/badge/Cisco-black?style=flat-square&logo=cisco)
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=plastic&logo=javascript)
 
   ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
   ![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=Redis)
