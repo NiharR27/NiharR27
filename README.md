@@ -1,5 +1,4 @@
-### Hi there 👋, I am Nihar Rupareliya
-
+<h1 align="center">🤠 Howdy! I'm Nihar Rupareliya</h1>
 
 
 <!--
