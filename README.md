@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, I am Nihar Rupareliya
 
 <!--
 **NiharR27/NiharR27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<!-- <div align="center">
 
 <a href="https://github.com/jstrieb/github-stats#gh-dark-mode-only">
 <img src="https://github-readme-stats.vercel.app/api?username=NiharR27" />
@@ -26,4 +26,4 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/NiharR27/github-stats/master/generated/languages.svg#gh-light-mode-only" />
 </a>
 
-</div>
+</div> -->
