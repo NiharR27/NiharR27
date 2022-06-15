@@ -10,7 +10,7 @@ When I'm not coding I like to cook some delicious food :)
 
 <div align="center">
 
-  [![Linkedin Badge](https://img.shields.io/badge/-Nihar-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihar-rupareliya-a2191318b/)](https://www.linkedin.com/in/nihar-rupareliya-a2191318b/)
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihar-rupareliya-a2191318b/)](https://www.linkedin.com/in/nihar-rupareliya-a2191318b/)
 </div>
 <br>
 
