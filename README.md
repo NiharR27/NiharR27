@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 
 
-![Nihar's GitHub stats](https://github-readme-stats.vercel.app/api?username=NiharR27&count_private=true&show_icons=true&theme=synthwave)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiharR27)](https://github.com/NiharR27/github-readme-stats)
+<a href="https://github.com/NiharR27/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiharR27&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NiharR27&repo=convoychat" />
+</a>
