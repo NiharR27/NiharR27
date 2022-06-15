@@ -27,6 +27,7 @@ When I'm not coding I like to cook some delicious food :)
 | --- | --- |
 | ![Nihar's github stats](https://github-readme-stats.vercel.app/api?username=NiharR27&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Nihar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiharR27&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
 
+<br>
 ## 🚀💻 Technologies & Tools
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
