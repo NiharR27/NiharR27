@@ -1,8 +1,8 @@
-<h1 align="center">🤠 Howdy! 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! /h1>
+<h1 align="center">🤠 Howdy! 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> </h1>
 
 <p align="center">
 I'm a front-end developer and designer building digital products using Lean Design principles.  I am currently working with Conpago.
-</p>
+</p>z
 <p align="center"> 
 When I'm not coding I like to cook some delicious food :)
 </p>
