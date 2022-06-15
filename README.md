@@ -1,11 +1,5 @@
 <h1 align="center">🤠 Howdy! 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/> </h1>
 
-<div align = "center"> 
-  <i>Random dev joke for you!</i><br>
-<a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" width = "400"></a>
-</div>
-
-
 <p align="center">
 I'm a front-end developer and designer building digital products using Lean Design principles.  I am currently working with Conpago.
 </p>
@@ -13,6 +7,10 @@ I'm a front-end developer and designer building digital products using Lean Desi
 When I'm not coding I like to cook some delicious food :)
 </p>
 
+<div align = "center"> 
+  <i>Random dev joke for you!</i><br>
+<a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" width = "400"></a>
+</div>
 
 
 <div align="center">
