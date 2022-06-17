@@ -15,7 +15,7 @@ When I'm not coding I like to cook some delicious food :)
 
 <div align = "center"> 
   <i>Random dev joke for you!</i><br>
-<a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" width = "400" height="100"></a>
+<a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" width = "auto" height="auto"></a>
 </div>
 <br>
 
