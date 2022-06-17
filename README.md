@@ -21,7 +21,7 @@ When I'm not coding I like to cook some delicious food :)
 
 
 
-## Quick stats (Not 100% accurate)
+<!-- ## Quick stats (Not 100% accurate)
 | Github Stats | Top Languages |
 | --- | --- |
 | ![Nihar's github stats](https://github-readme-stats.vercel.app/api?username=NiharR27&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true) | ![Nihar's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NiharR27&show_icons=true&title_color=f6c32c&icon_color=f6c32c&text_color=9f9f9f&bg_color=151515&count_private=true&layout=compact) |
@@ -69,4 +69,4 @@ When I'm not coding I like to cook some delicious food :)
   ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
   ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
   ![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+  ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) -->
