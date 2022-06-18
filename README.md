@@ -13,9 +13,9 @@ When I'm not coding I like to cook some delicious food :)
   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nihar-rupareliya-a2191318b/)](https://www.linkedin.com/in/nihar-rupareliya-a2191318b/)
 </div>
 
-<div align = "center"> 
+<div align="center"> 
   <i>Random dev joke for you!</i><br>
-<a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="README Jokes" width = "auto" height="auto"></a>
+<a href="https://readme-jokes.vercel.app"><img src="https://readme-jokes.vercel.app/api?bgColor=%23073b4c&textColor=%2306d6a0&aColor=%2306d6a0&borderColor=%2306d6a0" alt="The image got fucked if you see this?" width="auto" height="auto"/>
 </div>
 
 
